@@ -1,0 +1,19 @@
+# fastapi/uvicorn bumped: the mcp client library requires starlette>=0.48,
+# which the old fastapi==0.115.12 pin forbade.
+fastapi==0.141.1
+uvicorn[standard]==0.52.1
+python-dotenv==1.0.1
+couchbase>=4.2,<5.0
+httpx>=0.27,<1.0
+pytest>=8.0,<10.0
+
+langgraph
+langchain
+langchain-openai
+# --- agents ---
+langchain-mcp-adapters   # exposes MCP server tools as LangChain tools
+couchbase-agent-memory   # client for the Agent Memory server (see docs/agent-memory.md)
+uv                       # provides `uvx`, used to launch couchbase-mcp-server
+# The Couchbase MCP Server itself is NOT installed here on purpose: `uvx
+# couchbase-mcp-server` runs it in its own isolated environment, so its deps
+# (fastmcp/starlette) cannot conflict with this app's.

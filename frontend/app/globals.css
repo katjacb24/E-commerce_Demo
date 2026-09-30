@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #111111;
+  --accent: #6d28d9;
+  --accent-soft: #f3e8ff;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), "Segoe UI", sans-serif;
+}
+
+.no-search-cancel {
+  -webkit-appearance: textfield;
+  appearance: textfield;
+}
+
+.no-search-cancel::-webkit-search-cancel-button,
+.no-search-cancel::-webkit-search-decoration,
+.no-search-cancel::-webkit-search-results-button,
+.no-search-cancel::-webkit-search-results-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
+
+.no-search-cancel::-ms-clear,
+.no-search-cancel::-ms-reveal {
+  display: none;
+  width: 0;
+  height: 0;
+}

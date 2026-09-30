@@ -1,0 +1,4900 @@
+[
+  {
+    "image": "39773.jpg",
+    "sku": "SHIRT-STR-NVY-001",
+    "name": "Vertical Stripe Long-Sleeve Shirt",
+    "description": "Men's long-sleeve casual shirt in navy, pink and light-blue vertical stripes with a button-down collar and chest pocket; sleeves rolled up.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "navy",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 49.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "striped",
+      "long-sleeve",
+      "navy",
+      "button-down",
+      "multi-color"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "39775.jpg",
+    "sku": "SHIRT-OX-WHT-001",
+    "name": "Classic White Oxford Shirt",
+    "description": "Men's crisp white long-sleeve button-up oxford shirt with a point collar and single chest pocket; sleeves rolled up.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 55.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "oxford",
+      "long-sleeve",
+      "white",
+      "button-up",
+      "smart-casual"
+    ],
+    "stock": 55
+  },
+  {
+    "image": "39776.jpg",
+    "sku": "SHIRT-CHK-RED-001",
+    "name": "Red Tartan Check Casual Shirt",
+    "description": "Men's long-sleeve red, white and navy tartan-check casual shirt with a button-down collar and chest pocket; sleeves rolled up.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "red",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 49.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "check",
+      "plaid",
+      "tartan",
+      "long-sleeve",
+      "red",
+      "button-down"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "39777.jpg",
+    "sku": "SHIRT-CHK-BLU-001",
+    "name": "Blue Check Casual Shirt",
+    "description": "Men's long-sleeve blue, white and orange check casual shirt with a button-down collar and chest pocket; sleeves rolled up.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 49.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "check",
+      "long-sleeve",
+      "blue",
+      "button-down",
+      "multi-color"
+    ],
+    "stock": 42
+  },
+  {
+    "image": "39780.jpg",
+    "sku": "SHIRT-CHK-YLW-001",
+    "name": "Yellow Check Casual Shirt",
+    "description": "Men's long-sleeve yellow, white and navy check casual shirt with a button-down collar and chest pocket; sleeves rolled up.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "yellow",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 49.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "check",
+      "long-sleeve",
+      "yellow",
+      "button-down",
+      "navy"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "39781.jpg",
+    "sku": "SHIRT-FRM-WHT-001",
+    "name": "White Purple-Pinstripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in white with fine purple pinstripes, spread collar and a chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "pinstripe",
+      "long-sleeve",
+      "white",
+      "purple",
+      "business"
+    ],
+    "stock": 25
+  },
+  {
+    "image": "39782.jpg",
+    "sku": "SHIRT-FRM-WHT-002",
+    "name": "White Charcoal-Pinstripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in white with fine charcoal pinstripes, classic spread collar and chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "pinstripe",
+      "long-sleeve",
+      "white",
+      "charcoal",
+      "business"
+    ],
+    "stock": 22
+  },
+  {
+    "image": "39783.jpg",
+    "sku": "SHIRT-FRM-BRG-001",
+    "name": "Burgundy Micro-Check Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in a burgundy and navy micro-check pattern with a classic spread collar and chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "burgundy",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 69.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "check",
+      "long-sleeve",
+      "burgundy",
+      "navy",
+      "business"
+    ],
+    "stock": 18
+  },
+  {
+    "image": "39784.jpg",
+    "sku": "SHIRT-FRM-BRG-002",
+    "name": "Burgundy Stripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in deep burgundy with fine black vertical stripes, spread collar and dark buttons.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "burgundy",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 69.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "striped",
+      "long-sleeve",
+      "burgundy",
+      "black",
+      "business"
+    ],
+    "stock": 20
+  },
+  {
+    "image": "39785.jpg",
+    "sku": "SHIRT-FRM-BLU-001",
+    "name": "Blue Fine-Stripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in steel blue with very fine grey vertical stripes, classic spread collar and chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 69.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "striped",
+      "long-sleeve",
+      "blue",
+      "grey",
+      "business"
+    ],
+    "stock": 22
+  },
+  {
+    "image": "39786.jpg",
+    "sku": "SHIRT-FRM-BLU-002",
+    "name": "Cornflower Blue Textured-Stripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in bright cornflower blue with a subtle fine-stripe texture, spread collar and chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 69.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "striped",
+      "long-sleeve",
+      "blue",
+      "cornflower",
+      "business"
+    ],
+    "stock": 19
+  },
+  {
+    "image": "39788.jpg",
+    "sku": "SHIRT-FRM-PRP-001",
+    "name": "Purple Stripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in deep purple with fine tone-on-tone stripes, spread collar and contrasting pink buttons.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "purple",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 69.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "striped",
+      "long-sleeve",
+      "purple",
+      "pink-buttons",
+      "business"
+    ],
+    "stock": 15
+  },
+  {
+    "image": "39790.jpg",
+    "sku": "SHIRT-FRM-NVY-001",
+    "name": "Navy Multicolor-Stripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in dark navy with fine multicolor vertical stripes, classic spread collar and chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "navy",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 69.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "striped",
+      "long-sleeve",
+      "navy",
+      "multi-color",
+      "business"
+    ],
+    "stock": 17
+  },
+  {
+    "image": "39792.jpg",
+    "sku": "TROUSER-CHN-KHK-001",
+    "name": "Khaki Flat-Front Chinos",
+    "description": "Men's straight-leg khaki chino trousers with a flat front, zip fly and side pockets.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Chinos"
+    },
+    "color": "khaki",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "chino",
+      "flat-front",
+      "straight-leg",
+      "khaki",
+      "beige"
+    ],
+    "stock": 45
+  },
+  {
+    "image": "39793.jpg",
+    "sku": "TROUSER-FRM-GRY-001",
+    "name": "Mid Grey Formal Trousers",
+    "description": "Men's slim-fit formal dress trousers in medium grey with a flat front and creased legs.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "grey",
+    "material": "65% polyester, 35% wool",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 79.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-trouser",
+      "slim-fit",
+      "grey",
+      "business",
+      "office"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "39794.jpg",
+    "sku": "TROUSER-FRM-CHR-001",
+    "name": "Charcoal Grey Formal Trousers",
+    "description": "Men's slim-fit formal dress trousers in charcoal grey with a flat front and pressed creases for a sharp silhouette.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "charcoal",
+    "material": "65% polyester, 35% wool",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 79.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-trouser",
+      "slim-fit",
+      "charcoal",
+      "grey",
+      "business"
+    ],
+    "stock": 24
+  },
+  {
+    "image": "39795.jpg",
+    "sku": "TROUSER-FRM-NVY-001",
+    "name": "Black Formal Trousers",
+    "description": "Men's slim-fit formal dress trousers with a flat front and clean creased legs.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "black",
+    "material": "65% polyester, 35% wool",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 79.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-trouser",
+      "slim-fit",
+      "black",
+      "business"
+    ],
+    "stock": 26
+  },
+  {
+    "image": "39797.jpg",
+    "sku": "TROUSER-FRM-BLCK-001",
+    "name": "Black Formal Trousers",
+    "description": "Men's slim-fit formal dress trousers with a flat front. Made from a premium blend of wool for a refined look and comfortable fit.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "black",
+    "material": "15% polyester, 85% wool",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 89.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-trouser",
+      "slim-fit",
+      "black",
+      "business"
+    ],
+    "stock": 20
+  },
+  {
+    "image": "39798.jpg",
+    "sku": "SHIRT-FRM-BLU-003",
+    "name": "Blue Fine-Stripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in blue and white narrow vertical stripes, classic spread collar and chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "striped",
+      "long-sleeve",
+      "navy",
+      "white",
+      "business"
+    ],
+    "stock": 18
+  },
+  {
+    "image": "39800.jpg",
+    "sku": "SHIRT-FRM-NVY-003",
+    "name": "Dark Navy Fine-Stripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in dark navy and white fine vertical stripes, classic spread collar and chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "navy",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "striped",
+      "long-sleeve",
+      "dark-navy",
+      "white",
+      "business"
+    ],
+    "stock": 16
+  },
+  {
+    "image": "39801.jpg",
+    "sku": "SHIRT-FRM-MNT-001",
+    "name": "Mint Stripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in refreshing mint green with fine tone-on-tone stripes, spread collar and chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "mint",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "striped",
+      "long-sleeve",
+      "mint",
+      "green",
+      "business"
+    ],
+    "stock": 14
+  },
+  {
+    "image": "39802.jpg",
+    "sku": "SHIRT-FRM-MVE-001",
+    "name": "Mauve Stripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in rich mauve with fine white vertical stripes, classic spread collar and chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "mauve",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "striped",
+      "long-sleeve",
+      "mauve",
+      "pink",
+      "business"
+    ],
+    "stock": 12
+  },
+  {
+    "image": "39803.jpg",
+    "sku": "SHIRT-FRM-LVN-001",
+    "name": "Lavender Stripe Formal Shirt",
+    "description": "Men's long-sleeve formal dress shirt in soft lavender with fine white vertical stripes, classic spread collar and chest pocket.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "lavender",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-shirt",
+      "striped",
+      "long-sleeve",
+      "lavender",
+      "purple",
+      "business"
+    ],
+    "stock": 14
+  },
+  {
+    "image": "39804.jpg",
+    "sku": "TROUSER-CHN-GRN-001",
+    "name": "Bottle Green Flat-Front Chinos",
+    "description": "Men's straight-leg chino trousers in rich bottle green with a flat front and zip fly.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Chinos"
+    },
+    "color": "green",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "chino",
+      "flat-front",
+      "straight-leg",
+      "green",
+      "bottle-green"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "39805.jpg",
+    "sku": "TROUSER-CHN-DGY-001",
+    "name": "Dark Charcoal Flat-Front Chinos",
+    "description": "Men's straight-leg chino trousers in dark charcoal with a flat front and zip fly.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Chinos"
+    },
+    "color": "charcoal",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "chino",
+      "flat-front",
+      "straight-leg",
+      "charcoal",
+      "dark"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "39806.jpg",
+    "sku": "TROUSER-CHN-BLK-001",
+    "name": "Black Flat-Front Chinos",
+    "description": "Men's straight-leg chino trousers in classic black with a flat front and zip fly, ideal for smart-casual wear.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Chinos"
+    },
+    "color": "black",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "chino",
+      "flat-front",
+      "straight-leg",
+      "black",
+      "smart-casual"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "39807.jpg",
+    "sku": "TROUSER-CHN-NVY-001",
+    "name": "Navy Flat-Front Chinos",
+    "description": "Men's straight-leg navy chino trousers with a flat front and zip fly.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Chinos"
+    },
+    "color": "navy",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "chino",
+      "flat-front",
+      "straight-leg",
+      "navy",
+      "blue"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "39808.jpg",
+    "sku": "TROUSER-CHN-KHK-002",
+    "name": "Khaki Casual Chinos",
+    "description": "Men's relaxed straight-leg chino trousers in warm khaki with a flat front and side slash pockets.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Chinos"
+    },
+    "color": "khaki",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 55.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "chino",
+      "flat-front",
+      "straight-leg",
+      "khaki",
+      "beige"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "39809.jpg",
+    "sku": "TROUSER-FRM-BLK-001",
+    "name": "Black Pinstripe Formal Trousers",
+    "description": "Men's tailored formal trousers in black with a subtle fine pinstripe texture, flat front and pressed creases.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "black",
+    "material": "65% polyester, 35% wool",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 85.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "formal",
+      "dress-trouser",
+      "pinstripe",
+      "black",
+      "tailored",
+      "business"
+    ],
+    "stock": 20
+  },
+  {
+    "image": "39810.jpg",
+    "sku": "TROUSER-CHN-BLK-002",
+    "name": "Black Smart Chinos",
+    "description": "Men's slim-cut chino trousers in jet black with a flat front, ideal for smart-casual and business-casual occasions.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Chinos"
+    },
+    "color": "black",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "chino",
+      "slim-cut",
+      "black",
+      "smart-casual"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "40923.jpg",
+    "sku": "JEAN-BYS-LBL-001",
+    "name": "Men's Light Blue Slim Jeans",
+    "description": "Men's slim-fit light-wash blue jeans with 5-pocket styling, contrast stitching and branded tab at the waistband.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "light blue",
+    "material": "99% cotton, 1% elastane",
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y",
+      "12Y"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "slim-fit",
+      "jeans",
+      "light-blue",
+      "washed",
+      "men",
+      "denim"
+    ],
+    "stock": 50
+  },
+  {
+    "image": "40924.jpg",
+    "sku": "JEAN-BYS-LBL-002",
+    "name": "Men's Light Blue Slim Jeans (Tall Fit)",
+    "description": "Men's slim-fit light-wash blue jeans with 5-pocket styling and branded tab; extended length for taller men.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "light blue",
+    "material": "99% cotton, 1% elastane",
+    "sizes": [
+      "10Y",
+      "12Y",
+      "14Y"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "slim-fit",
+      "jeans",
+      "light-blue",
+      "washed",
+      "men",
+      "denim",
+      "tall"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "40925.jpg",
+    "sku": "JEAN-KDS-DBL-001",
+    "name": "Men's Dark Blue Denim Jeans",
+    "description": "Men's dark-wash blue denim jeans with an elasticated waist, white contrast stitching and decorative embroidered pocket detail.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "dark blue",
+    "material": "100% cotton",
+    "sizes": [
+      "2Y",
+      "4Y",
+      "6Y",
+      "8Y"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "jeans",
+      "dark-blue",
+      "men",
+      "elasticated-waist",
+      "denim"
+    ],
+    "stock": 60
+  },
+  {
+    "image": "40926.jpg",
+    "sku": "JEAN-KDS-DBL-002",
+    "name": "Men's Dark Blue Denim Jeans (Mid Sizes)",
+    "description": "Men's dark-wash blue denim jeans with an elasticated waist and decorative white contrast stitching; mid-size range.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "dark blue",
+    "material": "100% cotton",
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "jeans",
+      "dark-blue",
+      "men",
+      "elasticated-waist",
+      "denim"
+    ],
+    "stock": 55
+  },
+  {
+    "image": "40927.jpg",
+    "sku": "JEAN-KDS-DBL-003",
+    "name": "Men's Dark Blue Denim Jeans (Large Sizes)",
+    "description": "Men's dark-wash blue denim jeans with an elasticated waist and decorative white contrast stitching; larger size range.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "dark blue",
+    "material": "100% cotton",
+    "sizes": [
+      "8Y",
+      "10Y",
+      "12Y"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "jeans",
+      "dark-blue",
+      "men",
+      "elasticated-waist",
+      "denim"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "40928.jpg",
+    "sku": "JEAN-BYS-MBL-001",
+    "name": "Men's Medium-Wash Slim Jeans",
+    "description": "Men's medium-wash slim jeans with decorative pocket stitching, contrast topstitching and branded waistband label.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "99% cotton, 1% elastane",
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y",
+      "12Y"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "slim-fit",
+      "jeans",
+      "blue",
+      "men",
+      "denim",
+      "decorative-stitch"
+    ],
+    "stock": 45
+  },
+  {
+    "image": "40929.jpg",
+    "sku": "JEAN-BYS-MBL-002",
+    "name": "Men's Medium-Wash Slim Jeans (Tall Fit)",
+    "description": "Men's medium-wash slim jeans with decorative pocket stitching and contrast topstitching; extended length for taller men.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "99% cotton, 1% elastane",
+    "sizes": [
+      "10Y",
+      "12Y",
+      "14Y"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "slim-fit",
+      "jeans",
+      "blue",
+      "men",
+      "denim",
+      "tall"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "40930.jpg",
+    "sku": "LEGGING-GRL-MNT-001",
+    "name": "Women' Mint Leggings",
+    "description": "Women' solid mint-green full-length leggings with an elasticated waistband in soft stretch cotton.",
+    "category": {
+      "department": "Women",
+      "type": "Bottoms",
+      "subtype": "Leggings"
+    },
+    "color": "mint",
+    "material": "95% cotton, 5% elastane",
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y",
+      "12Y"
+    ],
+    "price": {
+      "amount": 15.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "leggings",
+      "mint",
+      "green",
+      "women",
+      "stretch",
+      "elasticated"
+    ],
+    "stock": 80
+  },
+  {
+    "image": "40931.jpg",
+    "sku": "LEGGING-GRL-MNT-002",
+    "name": "Women' Mint Leggings (Small Sizes)",
+    "description": "Women' solid mint-green full-length leggings in soft stretch cotton with an elasticated waistband; smaller size range.",
+    "category": {
+      "department": "Women",
+      "type": "Bottoms",
+      "subtype": "Leggings"
+    },
+    "color": "mint",
+    "material": "95% cotton, 5% elastane",
+    "sizes": [
+      "2Y",
+      "4Y",
+      "6Y",
+      "8Y"
+    ],
+    "price": {
+      "amount": 15.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "leggings",
+      "mint",
+      "green",
+      "women",
+      "stretch",
+      "small"
+    ],
+    "stock": 70
+  },
+  {
+    "image": "40932.jpg",
+    "sku": "LEGGING-GRL-MNT-003",
+    "name": "Women' Mint Leggings (Large Sizes)",
+    "description": "Women' solid mint-green full-length leggings in soft stretch cotton with an elasticated waistband; larger size range.",
+    "category": {
+      "department": "Women",
+      "type": "Bottoms",
+      "subtype": "Leggings"
+    },
+    "color": "mint",
+    "material": "95% cotton, 5% elastane",
+    "sizes": [
+      "10Y",
+      "12Y",
+      "14Y"
+    ],
+    "price": {
+      "amount": 15.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "leggings",
+      "mint",
+      "green",
+      "women",
+      "stretch",
+      "large"
+    ],
+    "stock": 60
+  },
+  {
+    "image": "40933.jpg",
+    "sku": "SHORT-BYS-LBL-001",
+    "name": "Men's Light Blue Denim Shorts",
+    "description": "Men's light-wash denim Bermuda shorts with a navy, red and white striped fabric belt, side pockets and back pocket embroidery.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Shorts"
+    },
+    "color": "light blue",
+    "material": "100% cotton",
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y",
+      "12Y"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "shorts",
+      "denim",
+      "light-blue",
+      "men",
+      "striped-belt",
+      "bermuda"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "40934.jpg",
+    "sku": "SHIRT-BYS-WHT-001",
+    "name": "Men's White Military Graphic Shirt",
+    "description": "Men's white short-sleeve button-up casual shirt with military-theme embroidered and printed graphic details on the chest and gunmetal buttons.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y",
+      "12Y"
+    ],
+    "price": {
+      "amount": 25.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "short-sleeve",
+      "graphic",
+      "white",
+      "men",
+      "shirt",
+      "military"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "41350.jpg",
+    "sku": "JEAN-MEN-DBL-001",
+    "name": "Men's Dark Blue Slim Jeans",
+    "description": "Men's slim-fit dark-wash blue jeans with 5-pocket styling and subtle fading detail.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "dark blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 75.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "slim-fit",
+      "jeans",
+      "dark-blue",
+      "washed",
+      "denim",
+      "men"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "41352.jpg",
+    "sku": "JEAN-WMN-BLK-001",
+    "name": "Women's Black Slim Jeans",
+    "description": "Women's slim-fit black jeans with 5-pocket styling and mid-rise waist.",
+    "category": {
+      "department": "Women",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "black",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 75.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "slim-fit",
+      "jeans",
+      "black",
+      "women",
+      "mid-rise",
+      "denim"
+    ],
+    "stock": 45
+  },
+  {
+    "image": "41353.jpg",
+    "sku": "JEAN-WMN-DGY-001",
+    "name": "Women's Dark Grey Slim Jeans",
+    "description": "Women's slim-fit dark grey jeans with 5-pocket styling and mid-rise waist.",
+    "category": {
+      "department": "Women",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "grey",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 75.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "slim-fit",
+      "jeans",
+      "grey",
+      "charcoal",
+      "women",
+      "denim"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "41354.jpg",
+    "sku": "JEAN-WMN-DGY-002",
+    "name": "Women's Charcoal Slim Jeans",
+    "description": "Women's slim-cut charcoal denim jeans with 5-pocket design and mid-rise waist, worn with a slim tan belt.",
+    "category": {
+      "department": "Women",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "charcoal",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 75.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "slim-fit",
+      "jeans",
+      "charcoal",
+      "grey",
+      "women",
+      "denim"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "41355.jpg",
+    "sku": "JEAN-MEN-DBL-002",
+    "name": "Men's Dark Blue Straight Jeans",
+    "description": "Men's straight-fit dark-wash blue jeans with 5-pocket styling and subtle whiskering.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "dark blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 75.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "straight-fit",
+      "jeans",
+      "dark-blue",
+      "washed",
+      "denim",
+      "men"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "41356.jpg",
+    "sku": "JEAN-MEN-LBL-001",
+    "name": "Men's Light Blue Slim Jeans",
+    "description": "Men's slim-fit light-wash blue jeans with 5-pocket styling and prominent whiskering and fading.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "light blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 75.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "slim-fit",
+      "jeans",
+      "light-blue",
+      "washed",
+      "denim",
+      "men"
+    ],
+    "stock": 42
+  },
+  {
+    "image": "41357.jpg",
+    "sku": "JEAN-MEN-LBL-002",
+    "name": "Men's Light Blue Relaxed Straight Jeans",
+    "description": "Men's light-wash blue straight jeans with 5-pocket styling and a relaxed thigh for a comfortable everyday fit.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "light blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 75.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "straight-fit",
+      "relaxed",
+      "jeans",
+      "light-blue",
+      "washed",
+      "denim",
+      "men"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "41358.jpg",
+    "sku": "JEAN-MEN-DBL-003",
+    "name": "Men's Mid-Wash Blue Slim Jeans",
+    "description": "Men's slim-fit mid-dark blue jeans with 5-pocket styling and classic subtle fading for a versatile everyday denim look.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 75.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "casual",
+      "slim-fit",
+      "jeans",
+      "blue",
+      "mid-wash",
+      "denim",
+      "men"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "41359.jpg",
+    "sku": "JEAN-SLM-MBL-001",
+    "name": "Slim-Fit Medium Wash Jeans",
+    "description": "Men's slim-fit jeans in a medium blue wash with subtle whiskering at the thighs for a relaxed, lived-in finish.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 55.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "medium-wash",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 42
+  },
+  {
+    "image": "41360.jpg",
+    "sku": "JEAN-STR-IDG-002",
+    "name": "Dark Indigo Straight-Leg Jeans",
+    "description": "Men's dark indigo straight-leg jeans with a clean pressed finish and rolled cuffs, paired with a white belt for a sharp casual look.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "indigo",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "straight-leg",
+      "dark-wash",
+      "indigo",
+      "denim",
+      "jeans"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "41361.jpg",
+    "sku": "JEAN-SLM-DBL-003",
+    "name": "Dark Blue Slim Straight Jeans",
+    "description": "Men's slim straight jeans in deep dark blue denim, offering a versatile silhouette that works for casual and smart-casual occasions.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "dark-wash",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "44578.jpg",
+    "sku": "JEAN-SLM-LBL-004",
+    "name": "Light Wash Slim Straight Jeans",
+    "description": "Men's slim straight jeans in a very light blue wash with a clean faded aesthetic perfect for a casual summer look.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "light blue",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 49.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "light-wash",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 45
+  },
+  {
+    "image": "44579.jpg",
+    "sku": "JEAN-STR-MBL-005",
+    "name": "Medium Blue Straight-Leg Jeans",
+    "description": "Men's straight-leg jeans in a medium-dark blue wash with classic five-pocket styling and belt loop construction.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "straight-leg",
+      "medium-wash",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 33
+  },
+  {
+    "image": "44580.jpg",
+    "sku": "JEAN-SLM-BLK-006",
+    "name": "Black Slim Straight Jeans",
+    "description": "Men's slim straight jeans in jet black denim, offering a sleek versatile option that transitions easily from day to night.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "black",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "black",
+      "denim",
+      "jeans",
+      "versatile"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "44581.jpg",
+    "sku": "JEAN-SLM-NVY-007",
+    "name": "Dark Navy Raw Denim Jeans",
+    "description": "Men's slim straight raw denim jeans in dark navy with a stiff rigid finish and fashionable rolled cuffs.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "navy",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 69.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "raw-denim",
+      "navy",
+      "denim",
+      "jeans"
+    ],
+    "stock": 25
+  },
+  {
+    "image": "44582.jpg",
+    "sku": "JEAN-STR-NVY-008",
+    "name": "Navy Pinstripe Denim Jeans",
+    "description": "Men's straight-leg jeans in dark navy featuring a subtle pinstripe texture, giving a unique twist on classic denim.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "navy",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "straight-leg",
+      "pinstripe",
+      "navy",
+      "denim",
+      "jeans"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "44583.jpg",
+    "sku": "JEAN-SLM-MBL-009",
+    "name": "Faded Medium Wash Slim Jeans",
+    "description": "Men's slim straight jeans in medium blue with visible fading and whiskering for an authentic worn-in appearance.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 55.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "faded",
+      "medium-wash",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 36
+  },
+  {
+    "image": "44584.jpg",
+    "sku": "JEAN-STR-IDG-010",
+    "name": "Heavy Faded Indigo Straight Jeans",
+    "description": "Men's straight-leg jeans in dark indigo with heavy cross-hatch fading and whiskering for a rugged distressed aesthetic.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "indigo",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "straight-leg",
+      "faded",
+      "indigo",
+      "distressed",
+      "denim",
+      "jeans"
+    ],
+    "stock": 22
+  },
+  {
+    "image": "44585.jpg",
+    "sku": "JEAN-SLM-GRY-011",
+    "name": "Dark Grey Slim Jeans",
+    "description": "Men's slim straight jeans in dark grey/charcoal denim with contrasting white stitching for a modern edgy look.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "grey",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "grey",
+      "denim",
+      "jeans",
+      "dark-wash"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "44586.jpg",
+    "sku": "JEAN-SLM-MBL-012",
+    "name": "Whiskered Medium Blue Slim Jeans",
+    "description": "Men's slim straight jeans in medium blue with prominent whiskering at the thighs and a classic five-pocket cut.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 55.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "whiskering",
+      "medium-wash",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "44587.jpg",
+    "sku": "JEAN-SLM-MBL-013",
+    "name": "Strongly Faded Slim Wash Jeans",
+    "description": "Men's slim straight jeans in medium blue with strong fading and whisker marks throughout for a bold casual aesthetic.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 55.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "faded",
+      "medium-wash",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "48066.jpg",
+    "sku": "JEAN-SLM-GRY-014",
+    "name": "Charcoal Slim Straight Jeans",
+    "description": "Men's slim straight jeans in dark grey charcoal denim, a versatile alternative to black for a contemporary wardrobe.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "charcoal",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "charcoal",
+      "grey",
+      "denim",
+      "jeans"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "48382.jpg",
+    "sku": "JEAN-STR-IDG-015",
+    "name": "Dark Indigo Relaxed Straight Jeans",
+    "description": "Men's relaxed straight-leg jeans in dark indigo denim with rolled cuffs for a laid-back effortless street style.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "indigo",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "relaxed-fit",
+      "straight-leg",
+      "indigo",
+      "denim",
+      "jeans"
+    ],
+    "stock": 27
+  },
+  {
+    "image": "48383.jpg",
+    "sku": "JEAN-SLM-BLK-016",
+    "name": "Slim-Fit Black Jeans",
+    "description": "Men's slim-fit black jeans in a clean dark finish — a wardrobe essential that pairs effortlessly with any top.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "black",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "black",
+      "denim",
+      "jeans",
+      "versatile"
+    ],
+    "stock": 50
+  },
+  {
+    "image": "48384.jpg",
+    "sku": "JEAN-SLM-MBL-017",
+    "name": "Heavy Whiskered Slim Jeans",
+    "description": "Men's slim straight jeans in medium blue with heavy whiskering and fading for a bold distressed street-style look.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 55.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "distressed",
+      "whiskering",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "48385.jpg",
+    "sku": "JEAN-SLM-IDG-018",
+    "name": "Dark Indigo Slim Straight Jeans",
+    "description": "Men's slim straight jeans in rich dark indigo denim with a neat minimal finish ideal for smart casual outfits.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "indigo",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "indigo",
+      "dark-wash",
+      "denim",
+      "jeans"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "48387.jpg",
+    "sku": "JEAN-STR-MBL-019",
+    "name": "Distressed Paint-Splatter Jeans",
+    "description": "Men's straight-leg jeans in medium-dark blue denim with distressed paint-splatter detailing for an artistic street-style edge.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "straight-leg",
+      "distressed",
+      "paint-splatter",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 20
+  },
+  {
+    "image": "48388.jpg",
+    "sku": "JEAN-REG-MBL-020",
+    "name": "Regular Fit Medium Wash Jeans",
+    "description": "Men's regular fit jeans in a classic medium blue wash offering a comfortable relaxed silhouette for everyday wear.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 55.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "regular-fit",
+      "medium-wash",
+      "blue",
+      "denim",
+      "jeans",
+      "casual"
+    ],
+    "stock": 45
+  },
+  {
+    "image": "48392.jpg",
+    "sku": "JEAN-STR-NVY-021",
+    "name": "Dark Navy Straight Jeans",
+    "description": "Men's straight-leg jeans in dark navy/charcoal denim with a clean finish and classic five-pocket styling.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "navy",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 65.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "straight-leg",
+      "navy",
+      "dark-wash",
+      "denim",
+      "jeans"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "48393.jpg",
+    "sku": "JEAN-SLM-DBL-022",
+    "name": "Slim Distressed Blue Jeans",
+    "description": "Men's slim-fit jeans in dark blue with distressed detailing and rolled cuffs, blending style with a rugged casual edge.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "slim-fit",
+      "distressed",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 25
+  },
+  {
+    "image": "48378.jpg",
+    "sku": "JEAN-STR-MBL-023",
+    "name": "Paint-Splash Straight-Leg Jeans",
+    "description": "Men's straight-leg jeans in medium blue with intentional paint-splash detailing and rolled cuffs for an artistic casual look.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Jeans"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 59.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "straight-leg",
+      "paint-splash",
+      "distressed",
+      "blue",
+      "denim",
+      "jeans"
+    ],
+    "stock": 18
+  },
+  {
+    "image": "48386.jpg",
+    "sku": "CHNO-STR-BLK-001",
+    "name": "Black Straight-Fit Chino Trousers",
+    "description": "Men's straight-fit black cotton chino trousers with a clean tailored finish and versatile silhouette for smart casual outfits.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "black",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "chinos",
+      "straight-leg",
+      "black",
+      "trousers",
+      "smart-casual"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "48391.jpg",
+    "sku": "CHNO-SLM-GRY-002",
+    "name": "Grey Slim Chino Trousers",
+    "description": "Men's slim-fit grey charcoal chino trousers with a neat tailored silhouette for casual or smart-casual occasions.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "grey",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "chinos",
+      "slim-fit",
+      "grey",
+      "trousers",
+      "smart-casual"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "48394.jpg",
+    "sku": "CHNO-SLM-BLK-003",
+    "name": "Black Slim Chino Trousers",
+    "description": "Men's slim-fit black chino trousers with a refined finish and belt loops — a versatile staple for modern wardrobes.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "black",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "chinos",
+      "slim-fit",
+      "black",
+      "trousers",
+      "smart-casual"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "48376.jpg",
+    "sku": "CHNO-STR-CHR-004",
+    "name": "Charcoal Straight Chino Trousers",
+    "description": "Men's straight-leg charcoal cotton chino trousers with a sharp tailored look suitable for office or smart casual wear.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "charcoal",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "chinos",
+      "straight-leg",
+      "charcoal",
+      "trousers",
+      "smart-casual"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "48380.jpg",
+    "sku": "CHNO-STR-NVY-005",
+    "name": "Dark Navy Straight Chino Trousers",
+    "description": "Men's straight-leg dark navy cotton chino trousers with a clean five-pocket cut for versatile everyday styling.",
+    "category": {
+      "department": "Men",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "navy",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "chinos",
+      "straight-leg",
+      "navy",
+      "trousers",
+      "casual"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "41376.jpg",
+    "sku": "BLSE-SLS-GNG-001",
+    "name": "Gingham Sleeveless Blouse",
+    "description": "Women's blue and white gingham sleeveless blouse with a classic point collar and drawstring hem for a fresh summery look.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "sleeveless",
+      "gingham",
+      "blue",
+      "summer",
+      "casual"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "41377.jpg",
+    "sku": "BLSE-SS-YLW-002",
+    "name": "Yellow Pintuck Bib Blouse",
+    "description": "Women's bright yellow short-sleeve pintuck bib blouse with a mandarin neckline and drawstring waist for a flattering relaxed fit.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "yellow",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "short-sleeve",
+      "pintuck",
+      "yellow",
+      "mandarin-collar",
+      "summer"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "41378.jpg",
+    "sku": "BLSE-SS-BLK-003",
+    "name": "Black Pintuck Bib Blouse",
+    "description": "Women's black short-sleeve pintuck bib blouse with a mandarin collar and drawstring waist for a sleek versatile look.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "black",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "short-sleeve",
+      "pintuck",
+      "black",
+      "mandarin-collar",
+      "versatile"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "41379.jpg",
+    "sku": "BLSE-SS-RED-004",
+    "name": "Bird Print Ruffle Blouse",
+    "description": "Women's red short-sleeve blouse featuring a bird print and a ruffled V-neckline for a playful feminine style.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "red",
+    "material": "100% polyester",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 34.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "short-sleeve",
+      "print",
+      "ruffle",
+      "red",
+      "V-neck"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "41380.jpg",
+    "sku": "BLSE-SLS-WHT-005",
+    "name": "White Pintuck Sleeveless Blouse",
+    "description": "Women's white sleeveless pintuck bib blouse with a mandarin split neckline and drawstring waist, light and airy for warm weather.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "sleeveless",
+      "pintuck",
+      "white",
+      "mandarin-collar",
+      "summer"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "41381.jpg",
+    "sku": "BLSE-SLS-BLK-006",
+    "name": "Black Sleeveless Pintuck Blouse",
+    "description": "Women's black sleeveless pintuck blouse with a mandarin collar and side tie, ideal for a polished casual look.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "black",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "sleeveless",
+      "pintuck",
+      "black",
+      "mandarin-collar",
+      "casual"
+    ],
+    "stock": 36
+  },
+  {
+    "image": "41382.jpg",
+    "sku": "BLSE-SLS-PNK-007",
+    "name": "Pink Floral Sleeveless Blouse",
+    "description": "Women's pink/blush sleeveless floral print blouse with a mandarin neckline and drawstring waist for a delicate feminine aesthetic.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "pink",
+    "material": "100% polyester",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 34.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "sleeveless",
+      "floral",
+      "pink",
+      "mandarin-collar",
+      "summer"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "41383.jpg",
+    "sku": "BLSE-SLS-NVY-008",
+    "name": "Navy Floral Sleeveless Blouse",
+    "description": "Women's navy floral print sleeveless blouse with a mandarin collar and drawstring waist, perfect for a smart casual summer outfit.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "navy",
+    "material": "100% polyester",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 34.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "sleeveless",
+      "floral",
+      "navy",
+      "mandarin-collar",
+      "summer"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "41384.jpg",
+    "sku": "BLSE-34S-PNK-009",
+    "name": "Pink Gingham Shirt Blouse",
+    "description": "Women's pink and red gingham check shirt with 3/4 roll-up sleeves and a drawstring waist — a playful casual piece.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "pink",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "gingham",
+      "3/4-sleeve",
+      "pink",
+      "check",
+      "casual"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "41385.jpg",
+    "sku": "BLSE-34S-GRN-010",
+    "name": "Green Gingham Shirt Blouse",
+    "description": "Women's green and white gingham check shirt with 3/4 roll-up sleeves and a drawstring waist for a fresh casual style.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "green",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "gingham",
+      "3/4-sleeve",
+      "green",
+      "check",
+      "casual"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "41386.jpg",
+    "sku": "BLSE-CAP-WHT-011",
+    "name": "White Rose Print Cap-Sleeve Blouse",
+    "description": "Women's white cap-sleeve blouse with a rose floral print and a mandarin collar, light and elegant for summer occasions.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 32.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "cap-sleeve",
+      "floral",
+      "white",
+      "rose-print",
+      "summer"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "41387.jpg",
+    "sku": "BLSE-CAP-WHT-012",
+    "name": "White Floral Cap-Sleeve Blouse",
+    "description": "Women's white cap-sleeve blouse with a yellow floral print and mandarin collar — a cheerful feminine summer top.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 32.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "cap-sleeve",
+      "floral",
+      "white",
+      "yellow",
+      "summer"
+    ],
+    "stock": 33
+  },
+  {
+    "image": "41388.jpg",
+    "sku": "BLSE-CAP-PNK-013",
+    "name": "Pink Pintuck Cap-Sleeve Blouse",
+    "description": "Women's pink cap-sleeve pintuck bib blouse with a mandarin collar — a sweet feminine top ideal for warm-weather dressing.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "pink",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "cap-sleeve",
+      "pintuck",
+      "pink",
+      "mandarin-collar",
+      "casual"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "48091.jpg",
+    "sku": "BLSE-LS-BLU-014",
+    "name": "Blue Long-Sleeve V-Neck Blouse",
+    "description": "Women's steel blue long-sleeve V-neck shirt with dual chest pockets, combining a relaxed casual feel with a refined silhouette.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "blue",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 39.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "long-sleeve",
+      "V-neck",
+      "blue",
+      "casual",
+      "pockets"
+    ],
+    "stock": 25
+  },
+  {
+    "image": "48092.jpg",
+    "sku": "BLSE-34S-RST-015",
+    "name": "Rust 3/4 Sleeve Tie-Front Blouse",
+    "description": "Women's rust/terracotta 3/4 sleeve blouse with a scoop neckline and tie-front detail for a casual boho-inspired look.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Blouses"
+    },
+    "color": "rust",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 34.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "blouse",
+      "3/4-sleeve",
+      "tie-front",
+      "rust",
+      "terracotta",
+      "casual"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "43304.jpg",
+    "sku": "SHRT-W-SS-WHT-001",
+    "name": "White Short-Sleeve Button-Up Shirt",
+    "description": "Women's white short-sleeve button-up shirt with a classic collar and chest pocket — a timeless wardrobe essential.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "short-sleeve",
+      "button-up",
+      "white",
+      "classic",
+      "casual"
+    ],
+    "stock": 42
+  },
+  {
+    "image": "43305.jpg",
+    "sku": "SHRT-W-SS-PNK-002",
+    "name": "Pink Short-Sleeve Button-Up Shirt",
+    "description": "Women's pink short-sleeve button-up shirt with a classic collar and chest pocket for a smart casual feminine look.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "pink",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "short-sleeve",
+      "button-up",
+      "pink",
+      "casual"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "43306.jpg",
+    "sku": "SHRT-W-34S-BLK-003",
+    "name": "Black 3/4 Sleeve Button-Up Shirt",
+    "description": "Women's black 3/4 sleeve button-up shirt with a classic collar for a versatile polished casual style.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "black",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 39.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "3/4-sleeve",
+      "button-up",
+      "black",
+      "versatile",
+      "smart-casual"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "43307.jpg",
+    "sku": "SHRT-W-34S-WHT-004",
+    "name": "White 3/4 Sleeve Button-Up Shirt",
+    "description": "Women's white 3/4 sleeve button-up shirt with a classic collar — crisp and clean for an effortlessly smart look.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 39.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "3/4-sleeve",
+      "button-up",
+      "white",
+      "classic",
+      "smart-casual"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "43308.jpg",
+    "sku": "SHRT-W-34S-PCH-005",
+    "name": "Peach 3/4 Sleeve Button-Up Shirt",
+    "description": "Women's peach/salmon 3/4 sleeve button-up shirt with a classic collar, offering a warm soft colour for everyday smart casual wear.",
+    "category": {
+      "department": "Women",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "peach",
+    "material": "100% cotton",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 39.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "3/4-sleeve",
+      "button-up",
+      "peach",
+      "salmon",
+      "casual"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "48099.jpg",
+    "sku": "CHNO-W-STR-KHK-001",
+    "name": "Khaki Straight-Leg Chino Trousers",
+    "description": "Women's khaki/beige straight-leg chino trousers with a rolled cuff and belt, combining smart tailoring with relaxed casual style.",
+    "category": {
+      "department": "Women",
+      "type": "Bottoms",
+      "subtype": "Trousers"
+    },
+    "color": "khaki",
+    "material": "98% cotton, 2% elastane",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "chinos",
+      "straight-leg",
+      "khaki",
+      "trousers",
+      "casual",
+      "smart-casual"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "44219.jpg",
+    "sku": "TEE-GFX-BLK-001",
+    "name": "Nike Graphic Tee – Black No.8",
+    "description": "Men's black Nike short-sleeve T-shirt with a bold #8 graphic print in orange, red and gold for a sporty streetwear look.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "T-Shirts"
+    },
+    "color": "black",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "t-shirt",
+      "graphic",
+      "Nike",
+      "black",
+      "streetwear",
+      "short-sleeve"
+    ],
+    "stock": 55
+  },
+  {
+    "image": "44220.jpg",
+    "sku": "TEE-GFX-NVY-002",
+    "name": "Nike Graphic Tee – Navy No.6",
+    "description": "Men's navy Nike short-sleeve T-shirt with a bold #6 graphic print in yellow and pink for a vibrant sporty style.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "T-Shirts"
+    },
+    "color": "navy",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "t-shirt",
+      "graphic",
+      "Nike",
+      "navy",
+      "streetwear",
+      "short-sleeve"
+    ],
+    "stock": 48
+  },
+  {
+    "image": "44221.jpg",
+    "sku": "TEE-GFX-WHT-003",
+    "name": "Nike Graphic Tee – White No.7",
+    "description": "Men's white Nike short-sleeve T-shirt with a #7 graphic print in red and gold for a bold fresh streetwear aesthetic.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "T-Shirts"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "t-shirt",
+      "graphic",
+      "Nike",
+      "white",
+      "streetwear",
+      "short-sleeve"
+    ],
+    "stock": 50
+  },
+  {
+    "image": "44222.jpg",
+    "sku": "TEE-GFX-RED-004",
+    "name": "Nike Graphic Tee – Red No.7",
+    "description": "Men's red Nike short-sleeve T-shirt with a #7 graphic print in white and gold for a bold vibrant athletic look.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "T-Shirts"
+    },
+    "color": "red",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "t-shirt",
+      "graphic",
+      "Nike",
+      "red",
+      "streetwear",
+      "short-sleeve"
+    ],
+    "stock": 45
+  },
+  {
+    "image": "44223.jpg",
+    "sku": "TEE-GFX-BLK-005",
+    "name": "Nike Graphic Tee – Black No.10",
+    "description": "Men's black Nike short-sleeve T-shirt with a bold #10 graphic print in orange for a standout sporty streetwear statement.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "T-Shirts"
+    },
+    "color": "black",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "t-shirt",
+      "graphic",
+      "Nike",
+      "black",
+      "streetwear",
+      "short-sleeve"
+    ],
+    "stock": 52
+  },
+  {
+    "image": "44224.jpg",
+    "sku": "TEE-GFX-ORG-006",
+    "name": "Nike Graphic Tee – Orange No.10",
+    "description": "Men's orange Nike short-sleeve T-shirt with a #10 graphic print in grey for a vibrant sporty athleisure look.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "T-Shirts"
+    },
+    "color": "orange",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "t-shirt",
+      "graphic",
+      "Nike",
+      "orange",
+      "streetwear",
+      "short-sleeve"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "44573.jpg",
+    "sku": "SAND-SPT-KHK-001",
+    "name": "Coolers Sport Sandal – Khaki",
+    "description": "Men's khaki/olive open-toe sport sandal with a velcro strap and cushioned footbed, ideal for casual warm-weather wear.",
+    "category": {
+      "department": "Men",
+      "type": "Footwear",
+      "subtype": "Sandals"
+    },
+    "color": "khaki",
+    "material": "synthetic upper, rubber sole",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "sandals",
+      "sport",
+      "velcro",
+      "open-toe",
+      "khaki",
+      "summer"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "44577.jpg",
+    "sku": "SAND-SLD-BLK-002",
+    "name": "Black Leather Slip-On Slide",
+    "description": "Men's black leather slip-on slide sandal with a clean minimal design for effortless casual summer style.",
+    "category": {
+      "department": "Men",
+      "type": "Footwear",
+      "subtype": "Sandals"
+    },
+    "color": "black",
+    "material": "genuine leather upper, rubber sole",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "sandals",
+      "slide",
+      "leather",
+      "black",
+      "slip-on",
+      "casual"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "45577.jpg",
+    "sku": "SAND-DBL-BLK-003",
+    "name": "Black Double-Buckle Leather Sandals",
+    "description": "Men's black leather sandals with double-buckle straps for a secure fit and a stylish open-toe summer look.",
+    "category": {
+      "department": "Men",
+      "type": "Footwear",
+      "subtype": "Sandals"
+    },
+    "color": "black",
+    "material": "genuine leather upper, rubber sole",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "sandals",
+      "buckle-strap",
+      "leather",
+      "black",
+      "open-toe",
+      "casual"
+    ],
+    "stock": 22
+  },
+  {
+    "image": "45574.jpg",
+    "sku": "SHOE-OXF-BLK-001",
+    "name": "Black Cap-Toe Oxford Brogue",
+    "description": "Men's black leather lace-up Oxford brogue with a cap toe and traditional brogue perforations for a timeless formal look.",
+    "category": {
+      "department": "Men",
+      "type": "Footwear",
+      "subtype": "Shoes"
+    },
+    "color": "black",
+    "material": "genuine leather upper, leather sole",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price": {
+      "amount": 99.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shoes",
+      "Oxford",
+      "brogue",
+      "black",
+      "leather",
+      "formal"
+    ],
+    "stock": 20
+  },
+  {
+    "image": "45575.jpg",
+    "sku": "SHOE-OXF-TAN-002",
+    "name": "Tan Cap-Toe Oxford Brogue",
+    "description": "Men's tan/camel leather lace-up Oxford brogue with a cap toe and brogue detailing — a versatile smart casual shoe.",
+    "category": {
+      "department": "Men",
+      "type": "Footwear",
+      "subtype": "Shoes"
+    },
+    "color": "tan",
+    "material": "genuine leather upper, leather sole",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price": {
+      "amount": 99.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shoes",
+      "Oxford",
+      "brogue",
+      "tan",
+      "leather",
+      "smart-casual"
+    ],
+    "stock": 18
+  },
+  {
+    "image": "45576.jpg",
+    "sku": "SHOE-LOF-BLK-003",
+    "name": "Black Penny Loafer",
+    "description": "Men's black leather penny loafer with a classic slip-on design — effortlessly smart for smart-casual and semi-formal occasions.",
+    "category": {
+      "department": "Men",
+      "type": "Footwear",
+      "subtype": "Shoes"
+    },
+    "color": "black",
+    "material": "genuine leather upper, leather sole",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price": {
+      "amount": 89.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shoes",
+      "loafer",
+      "penny-loafer",
+      "black",
+      "leather",
+      "smart-casual"
+    ],
+    "stock": 22
+  },
+  {
+    "image": "45440.jpg",
+    "sku": "POLO-CB-BLU-001",
+    "name": "Fila Colour-Block Polo – Blue",
+    "description": "Men's Fila polo shirt in blue and light blue colour block with navy piping — sporty and stylish for active or casual wear.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Polo Shirts"
+    },
+    "color": "blue",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "polo",
+      "Fila",
+      "colour-block",
+      "blue",
+      "sport",
+      "casual"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "45441.jpg",
+    "sku": "POLO-CB-TEA-002",
+    "name": "Fila Colour-Block Polo – Teal/Navy",
+    "description": "Men's Fila polo shirt in teal and navy colour block with white piping — a fresh sporty look for active and leisure wear.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Polo Shirts"
+    },
+    "color": "teal",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "polo",
+      "Fila",
+      "colour-block",
+      "teal",
+      "navy",
+      "sport"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "45488.jpg",
+    "sku": "SHTS-SPT-BLK-001",
+    "name": "Fila Sport Shorts – Black",
+    "description": "Men's Fila sport shorts in black with red accent panels and elastic waistband — ideal for training and casual athletic wear.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Shorts"
+    },
+    "color": "black",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 25.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shorts",
+      "Fila",
+      "sport",
+      "black",
+      "activewear",
+      "training"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "45489.jpg",
+    "sku": "TKPT-SPT-NVY-001",
+    "name": "Fila Track Pants – Navy",
+    "description": "Men's Fila navy track pants with cuffed hems and an elastic waistband, perfect for training or casual streetwear.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Track Pants"
+    },
+    "color": "navy",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 39.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "track-pants",
+      "Fila",
+      "navy",
+      "activewear",
+      "sport",
+      "cuffed"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "50651.jpg",
+    "sku": "SHTS-W-SPT-BLK-001",
+    "name": "Chromozome Sport Shorts – Women's Black/Red",
+    "description": "Women's Chromozome black sport shorts with a red side stripe and elasticated waistband for active training and leisure wear.",
+    "category": {
+      "department": "Women",
+      "type": "Activewear",
+      "subtype": "Shorts"
+    },
+    "color": "black",
+    "material": "100% polyester",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 22.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shorts",
+      "Chromozome",
+      "sport",
+      "black",
+      "red-stripe",
+      "activewear"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "50652.jpg",
+    "sku": "SHTS-SPT-GRY-002",
+    "name": "Chromozome Sport Shorts – Grey Marl",
+    "description": "Men's Chromozome grey marl sport shorts with an elasticated waistband for comfortable everyday training and casual wear.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Shorts"
+    },
+    "color": "grey",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 22.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shorts",
+      "Chromozome",
+      "sport",
+      "grey",
+      "marl",
+      "activewear"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "50653.jpg",
+    "sku": "SHTS-W-SPT-NVY-002",
+    "name": "Chromozome Sport Shorts – Women's Navy",
+    "description": "Women's Chromozome navy sport shorts with an elasticated waistband for flexible active and casual wear.",
+    "category": {
+      "department": "Women",
+      "type": "Activewear",
+      "subtype": "Shorts"
+    },
+    "color": "navy",
+    "material": "100% polyester",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 22.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shorts",
+      "Chromozome",
+      "sport",
+      "navy",
+      "activewear"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "50654.jpg",
+    "sku": "CPRI-SPT-BLK-001",
+    "name": "Chromozome 3/4 Capri Pants – Black/Red",
+    "description": "Men's Chromozome black 3/4 capri pants with a red side stripe and elastic waistband for training and leisure.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Capri Pants"
+    },
+    "color": "black",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "capri-pants",
+      "Chromozome",
+      "sport",
+      "black",
+      "red-stripe",
+      "activewear"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "50655.jpg",
+    "sku": "CPRI-SPT-GRY-002",
+    "name": "Chromozome 3/4 Capri Pants – Grey Marl",
+    "description": "Men's Chromozome grey marl 3/4 capri pants with a black side stripe and elastic waistband for active training.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Capri Pants"
+    },
+    "color": "grey",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "capri-pants",
+      "Chromozome",
+      "sport",
+      "grey",
+      "activewear"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "50656.jpg",
+    "sku": "CPRI-SPT-NVY-003",
+    "name": "Chromozome 3/4 Capri Pants – Navy",
+    "description": "Men's Chromozome navy 3/4 capri pants with a white side stripe and elastic waistband for sport and leisure.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Capri Pants"
+    },
+    "color": "navy",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "capri-pants",
+      "Chromozome",
+      "sport",
+      "navy",
+      "activewear"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "50657.jpg",
+    "sku": "CPRI-SPT-BLK-004",
+    "name": "Chromozome 3/4 Capri Pants – Black/White",
+    "description": "Men's Chromozome black 3/4 capri pants with a white side stripe and elastic waistband for active and casual wear.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Capri Pants"
+    },
+    "color": "black",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "capri-pants",
+      "Chromozome",
+      "sport",
+      "black",
+      "white-stripe",
+      "activewear"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "50658.jpg",
+    "sku": "CPRI-SPT-CHR-005",
+    "name": "Chromozome 3/4 Capri Pants – Charcoal",
+    "description": "Men's Chromozome charcoal 3/4 capri pants with a dark side stripe for a subtle sporty look perfect for training.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Capri Pants"
+    },
+    "color": "charcoal",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "capri-pants",
+      "Chromozome",
+      "sport",
+      "charcoal",
+      "activewear"
+    ],
+    "stock": 25
+  },
+  {
+    "image": "50659.jpg",
+    "sku": "CPRI-SPT-NVY-006",
+    "name": "Chromozome 3/4 Capri Pants – Navy/Beige",
+    "description": "Men's Chromozome navy 3/4 capri pants with a grey/beige side stripe for a relaxed versatile sport look.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Capri Pants"
+    },
+    "color": "navy",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 29.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "capri-pants",
+      "Chromozome",
+      "sport",
+      "navy",
+      "activewear"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "50660.jpg",
+    "sku": "TKPT-SPT-BLK-002",
+    "name": "Chromozome Track Pants – Black",
+    "description": "Men's Chromozome full-length black track pants with an elastic waistband and tapered leg for sport and casual wear.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Track Pants"
+    },
+    "color": "black",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "track-pants",
+      "Chromozome",
+      "black",
+      "activewear",
+      "sport"
+    ],
+    "stock": 40
+  },
+  {
+    "image": "50661.jpg",
+    "sku": "TKPT-SPT-GRY-003",
+    "name": "Chromozome Track Pants – Grey Marl",
+    "description": "Men's Chromozome grey marl full-length track pants with a black stripe and elastic waistband for training and athleisure.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Track Pants"
+    },
+    "color": "grey",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "track-pants",
+      "Chromozome",
+      "grey",
+      "activewear",
+      "sport"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "50662.jpg",
+    "sku": "TKPT-SPT-NVY-004",
+    "name": "Chromozome Track Pants – Navy",
+    "description": "Men's Chromozome navy full-length track pants with a white side stripe and elastic waistband for sport and leisure.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Track Pants"
+    },
+    "color": "navy",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "track-pants",
+      "Chromozome",
+      "navy",
+      "activewear",
+      "sport"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "50663.jpg",
+    "sku": "SHTS-SPT-BLK-003",
+    "name": "Chromozome Sport Shorts – Black/White Band",
+    "description": "Men's Chromozome black sport shorts with a white horizontal contrast band and elastic waistband for training and casual athleticwear.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Shorts"
+    },
+    "color": "black",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 22.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shorts",
+      "Chromozome",
+      "sport",
+      "black",
+      "white",
+      "activewear"
+    ],
+    "stock": 38
+  },
+  {
+    "image": "50664.jpg",
+    "sku": "SHTS-SPT-CHR-004",
+    "name": "Chromozome Sport Shorts – Charcoal",
+    "description": "Men's Chromozome charcoal sport shorts with a light grey horizontal band and elastic waistband for versatile active wear.",
+    "category": {
+      "department": "Men",
+      "type": "Activewear",
+      "subtype": "Shorts"
+    },
+    "color": "charcoal",
+    "material": "100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 22.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shorts",
+      "Chromozome",
+      "sport",
+      "charcoal",
+      "activewear"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "48062.jpg",
+    "sku": "SHRT-M-LS-WHT-001",
+    "name": "White Long-Sleeve Utility Shirt",
+    "description": "Men's white long-sleeve button-up shirt with dual chest pockets and a classic button collar for a casual utilitarian look.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 39.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "white",
+      "utility",
+      "casual",
+      "button-up"
+    ],
+    "stock": 35
+  },
+  {
+    "image": "48063.jpg",
+    "sku": "SHRT-M-SS-STR-002",
+    "name": "White Grey Stripe Short-Sleeve Shirt",
+    "description": "Men's white and grey striped short-sleeve button-down shirt — smart yet casual with a button-down collar.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 39.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "short-sleeve",
+      "stripe",
+      "white",
+      "grey",
+      "casual"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "48064.jpg",
+    "sku": "SHRT-M-SS-PLK-003",
+    "name": "Multicolour Plaid Short-Sleeve Shirt",
+    "description": "Men's multicolour plaid check short-sleeve shirt with roll-up sleeve tabs — a lively casual piece for summer outings.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "multicolour",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 39.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "short-sleeve",
+      "plaid",
+      "check",
+      "multicolour",
+      "casual"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "48065.jpg",
+    "sku": "SHRT-M-LS-GRY-004",
+    "name": "Grey Oxford Long-Sleeve Shirt",
+    "description": "Men's light grey and steel blue long-sleeve Oxford shirt with a button-down collar — refined and versatile for smart casual occasions.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "grey",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "Oxford",
+      "grey",
+      "smart-casual",
+      "button-down"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "48360.jpg",
+    "sku": "SHRT-M-LS-GRN-005",
+    "name": "Green Plaid Check Long-Sleeve Shirt",
+    "description": "Men's green and white plaid check long-sleeve shirt with a button-down collar for a fresh casual everyday look.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "green",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "plaid",
+      "check",
+      "green",
+      "casual"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "48361.jpg",
+    "sku": "SHRT-M-LS-NVY-006",
+    "name": "Navy Plaid Check Long-Sleeve Shirt",
+    "description": "Men's white and navy plaid check long-sleeve shirt with a button-down collar and contrasting print for a bold casual style.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "navy",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "plaid",
+      "check",
+      "navy",
+      "casual"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "48362.jpg",
+    "sku": "SHRT-M-LS-NVY-007",
+    "name": "Navy Buffalo Check Flannel Shirt",
+    "description": "Men's navy and cream large buffalo check flannel long-sleeve shirt with dual chest pockets — a cosy casual winter staple.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "navy",
+    "material": "100% flannel cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 49.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "flannel",
+      "long-sleeve",
+      "buffalo-check",
+      "navy",
+      "casual"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "48363.jpg",
+    "sku": "SHRT-M-LS-RED-008",
+    "name": "Red Plaid Flannel Shirt",
+    "description": "Men's red and black plaid flannel long-sleeve shirt with dual chest pockets — a classic lumberjack-style casual layer.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "red",
+    "material": "100% flannel cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 49.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "flannel",
+      "long-sleeve",
+      "plaid",
+      "red",
+      "casual"
+    ],
+    "stock": 32
+  },
+  {
+    "image": "48365.jpg",
+    "sku": "SHRT-M-LS-BLK-009",
+    "name": "Black Plaid Check Long-Sleeve Shirt",
+    "description": "Men's black and white plaid check long-sleeve shirt with dual chest pockets for a bold monochrome casual look.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "black",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "plaid",
+      "check",
+      "black",
+      "casual"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "48367.jpg",
+    "sku": "SHRT-M-LS-GRY-010",
+    "name": "Grey Small Plaid Check Long-Sleeve Shirt",
+    "description": "Men's grey and white small plaid check long-sleeve shirt with dual chest pockets — subtle, versatile, and easy to style.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "grey",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "plaid",
+      "check",
+      "grey",
+      "casual"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "48368.jpg",
+    "sku": "SHRT-M-LS-CRM-011",
+    "name": "Cream Buffalo Check Long-Sleeve Shirt",
+    "description": "Men's cream and brown large buffalo check long-sleeve shirt with a button-down collar for a warm casual autumnal look.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "cream",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 49.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "buffalo-check",
+      "cream",
+      "brown",
+      "casual"
+    ],
+    "stock": 25
+  },
+  {
+    "image": "48369.jpg",
+    "sku": "SHRT-M-LS-GRY-012",
+    "name": "Grey Blue Check Long-Sleeve Shirt",
+    "description": "Men's grey, blue and black large check long-sleeve shirt with a button-down collar and single chest pocket — bold and casual.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "grey",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "check",
+      "grey",
+      "blue",
+      "casual"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "48370.jpg",
+    "sku": "SHRT-M-LS-OLV-013",
+    "name": "Olive Plaid Check Long-Sleeve Shirt",
+    "description": "Men's olive and cream plaid check long-sleeve shirt with dual chest pockets and button-down collar for a relaxed earthy style.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "olive",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "plaid",
+      "check",
+      "olive",
+      "casual"
+    ],
+    "stock": 25
+  },
+  {
+    "image": "48371.jpg",
+    "sku": "SHRT-M-LS-BRN-014",
+    "name": "Dark Brown Check Long-Sleeve Shirt",
+    "description": "Men's dark brown, black and white large plaid check long-sleeve shirt with a single chest pocket and roll-up sleeves.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "brown",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "plaid",
+      "check",
+      "brown",
+      "dark",
+      "casual"
+    ],
+    "stock": 22
+  },
+  {
+    "image": "48372.jpg",
+    "sku": "SHRT-M-LS-TAN-015",
+    "name": "Tan Plaid Long-Sleeve Shirt",
+    "description": "Men's tan and white plaid long-sleeve shirt with roll-up sleeves, single chest pocket and contrast gingham lining on the cuffs.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "tan",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 49.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "plaid",
+      "tan",
+      "casual",
+      "gingham-cuffs"
+    ],
+    "stock": 25
+  },
+  {
+    "image": "48373.jpg",
+    "sku": "SHRT-M-LS-WHT-016",
+    "name": "White Pink Plaid Long-Sleeve Shirt",
+    "description": "Men's white base plaid shirt with pink and navy check lines and dual chest pockets — fresh and casual for warm days.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "white",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "plaid",
+      "check",
+      "white",
+      "pink",
+      "casual"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "48374.jpg",
+    "sku": "SHRT-M-LS-CHR-017",
+    "name": "Charcoal Pinstripe Long-Sleeve Shirt",
+    "description": "Men's dark charcoal long-sleeve shirt with a fine pinstripe texture and dual chest pockets — understated and smart casual.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "charcoal",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 45.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "long-sleeve",
+      "pinstripe",
+      "charcoal",
+      "grey",
+      "smart-casual"
+    ],
+    "stock": 22
+  },
+  {
+    "image": "48375.jpg",
+    "sku": "SHRT-M-LS-GRY-018",
+    "name": "Grey Buffalo Check Flannel Shirt",
+    "description": "Men's grey, black and cream large buffalo check flannel long-sleeve shirt with dual chest pockets — a comfortable casual layer.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Shirts"
+    },
+    "color": "grey",
+    "material": "100% flannel cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 49.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "shirt",
+      "flannel",
+      "long-sleeve",
+      "buffalo-check",
+      "grey",
+      "casual"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "48067.jpg",
+    "sku": "POLO-M-SS-BRG-001",
+    "name": "Burgundy Polo Shirt",
+    "description": "Men's burgundy polo shirt with contrasting red collar and cuff trim, offering a bold and stylish casual look.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Polo Shirts"
+    },
+    "color": "burgundy",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "polo",
+      "short-sleeve",
+      "burgundy",
+      "casual",
+      "classic"
+    ],
+    "stock": 30
+  },
+  {
+    "image": "48068.jpg",
+    "sku": "POLO-M-SS-GRY-002",
+    "name": "Dark Grey Polo Shirt",
+    "description": "Men's dark grey polo shirt with blue striped collar and cuff trim — a subtle sophisticated casual polo.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Polo Shirts"
+    },
+    "color": "grey",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "polo",
+      "short-sleeve",
+      "grey",
+      "casual",
+      "classic"
+    ],
+    "stock": 28
+  },
+  {
+    "image": "48069.jpg",
+    "sku": "POLO-M-SS-BLK-003",
+    "name": "Black Horizontal Stripe Polo Shirt",
+    "description": "Men's black and white horizontal stripe polo shirt with a band collar — a retro-inspired casual polo for everyday wear.",
+    "category": {
+      "department": "Men",
+      "type": "Tops",
+      "subtype": "Polo Shirts"
+    },
+    "color": "black",
+    "material": "100% cotton",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": {
+      "amount": 35.0,
+      "currency": "EUR"
+    },
+    "tags": [
+      "polo",
+      "short-sleeve",
+      "stripe",
+      "black",
+      "white",
+      "casual"
+    ],
+    "stock": 32
+  }
+]
+

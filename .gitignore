@@ -1,0 +1,84 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules/
+/frontend/.pnp
+frontend/.pnp.*
+frontend/.yarn/*
+!frontend/.yarn/patches
+!frontend/.yarn/plugins
+!frontend/.yarn/releases
+!frontend/.yarn/versions
+
+# testing
+/frontend/coverage
+
+# next.js
+/frontend/.next/
+/frontend/out/
+
+# production
+/frontend/build
+
+# misc
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.pem
+*.log
+api.json
+
+# debug
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.pnpm-debug.log*
+
+# env files — real values stay local, the .example templates are committed
+.env
+.env.*
+!.env.example
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# vercel
+frontend/.vercel
+
+# typescript
+*.tsbuildinfo
+frontend/next-env.d.ts
+
+# images
+/frontend/public/product-images
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# editors
+.idea/
+.vscode/
+
+# claude code — local machine settings and agent tooling
+.claude/settings.local.json
+.claude/commands/
+.claude/skills/
+
+todos.md
+
+agent_memory/.env
+agent_memory/ca.pem
+agent_memory/*.tar
+agent_memory/exampleReturnedMemoryBlock.json
